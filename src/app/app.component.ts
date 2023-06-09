@@ -18,7 +18,7 @@ export class AppComponent implements OnInit {
 
    usersInfoDB = {
     userInfo: { username: "Rushi" , email: "rushi@gmail.com"}, 
-    secrectQuestion: "teacher", 
+    secrectQuestion: "", 
     gender: "Male" , 
     mode : "Email"
   }
